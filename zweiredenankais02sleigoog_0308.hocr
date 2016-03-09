@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./zweiredenankais02sleigoog/zweiredenankais02sleigoog_0308.png"; bbox 0 0 3060 4962; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 374 699 995 832">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 374 699 995 832">
+     <span class='ocr_line' id='line_1_1' title="bbox 374 699 995 832; baseline -0.006 0"><span class='ocrx_word' id='word_1_1' title='bbox 374 699 995 832; x_wconf 87' lang='lat' dir='ltr'><strong>NIEDERDEUTSCHE</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 118 1161 1415 1446">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 118 1161 1415 1446">
+     <span class='ocr_line' id='line_1_2' title="bbox 118 1161 1415 1446; baseline -0.006 -58"><span class='ocrx_word' id='word_1_2' title='bbox 118 1161 1252 1388; x_wconf 76' lang='lat' dir='ltr'><strong>BAUERNKOMODIEN</strong></span> <span class='ocrx_word' id='word_1_3' title='bbox 1409 1439 1415 1446; x_wconf 70' lang='lat'>‚</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 299 1687 1070 1822">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 299 1687 1070 1822">
+     <span class='ocr_line' id='line_1_3' title="bbox 299 1687 1070 1822; baseline -0.005 0"><span class='ocrx_word' id='word_1_4' title='bbox 299 1748 378 1822; x_wconf 70' lang='lat' dir='ltr'>mss</span> <span class='ocrx_word' id='word_1_5' title='bbox 408 1687 691 1822; x_wconf 47' lang='lat' dir='ltr'>&#39;smsszfflmu</span> <span class='ocrx_word' id='word_1_6' title='bbox 722 1743 1070 1822; x_wconf 72' lang='lat' dir='ltr'><strong>JAHRHUNDERTS.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 523 2261 857 2320">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 523 2261 857 2320">
+     <span class='ocr_line' id='line_1_4' title="bbox 523 2261 857 2320; baseline -0.003 0"><span class='ocrx_word' id='word_1_7' title='bbox 523 2261 857 2320; x_wconf 79' lang='lat' dir='ltr'><strong>HERAUSGEGEBEN</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 65 2879 1400 3087">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 65 2879 1400 3087">
+     <span class='ocr_line' id='line_1_5' title="bbox 65 2879 1400 3087; baseline 0 -39"><span class='ocrx_word' id='word_1_8' title='bbox 65 2879 68 2890; x_wconf 35' lang='lat'>¹</span> <span class='ocrx_word' id='word_1_9' title='bbox 231 2951 1153 3087; x_wconf 80' lang='lat' dir='ltr'><strong>HERMANNJELLINGHAUS.</strong></span> <span class='ocrx_word' id='word_1_10' title='bbox 1392 2996 1400 3009; x_wconf 91' lang='lat'><strong>·</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 0 0 1534 4962">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 0 0 1534 4962">
+     <span class='ocr_line' id='line_1_6' title="bbox 0 0 1534 4962; baseline 0 0"><span class='ocrx_word' id='word_1_11' title='bbox 0 0 1534 4962; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
